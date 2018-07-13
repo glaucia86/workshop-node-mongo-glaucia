@@ -10,6 +10,7 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 - **VAGAS LIMITADAS**: 250 alunos(as)
 - **LINK INSCRIÇÃO WORKSHOP**: [LINK](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154)
 - **PREÇO**: R$ 25,00
+- **CERTIFICADO DE CONCLUSÃO**
 
 
 ## ⚡️Recursos Utilizados no Workshop:
