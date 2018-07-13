@@ -5,9 +5,10 @@
 </p>
 
 Repositório responsável pelo códigos desenvolvidos durante o workshop: **Criando uma App REST API com Node.js** realizado no dia 05/08/2018.
+O curso será feito de maneira online e as aulas serão gravadas e enviadas para os alunos(as).
 
-- **VAGAS LIMITADAS**:250
-- **LINK INSCRIÇÃO WORKSHOP**: 
+- **VAGAS LIMITADAS**: 250 alunos(as)
+- **LINK INSCRIÇÃO WORKSHOP**: [LINK](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154)
 - **PREÇO**: R$ 25,00
 
 
@@ -15,14 +16,13 @@ Repositório responsável pelo códigos desenvolvidos durante o workshop: **Cria
 
 - Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
 - Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/) 
-- Express.Js
-- MongoDb & MLab;
+- Express.Js;
+- MongoDb;
 - Code Metrics; (análise de desenvolvimento do codigo)
-- Visual Studio Code;
 - Json data (para retornar os dados);
 - PostMan (testar a API criada);
 
-## :fire: :fire: Pré-Requisistos para realização do Workshop:
+## :fire: Pré-Requisistos para realização do Workshop:
 
 * **Ter noções de JavaScript:**
     - Desvendando a linguagem JavaScript (Rodrigo Branas): [AQUI](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
@@ -32,7 +32,7 @@ Não precisam ter conhecimento em Node.js. Uma vez que, durante o workshop, voc�
 ```
 
 
-## :rocket: :rocket: Testando a Aplicação no Postman: 
+## :rocket: Testando a Aplicação no Postman: 
 
 Caso queira testar as API's criadas no projeto, primeiro baixe o [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop).
 Depois de realizar o download do Postman, basta agora realizar os passos abaiaxo para 
