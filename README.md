@@ -18,7 +18,7 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 - Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
 - Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/) 
 - Express.Js;
-- MongoDb;
+- MongoDb - [DOWNLOAD AQUI](https://www.mongodb.com/download-center?jmp=homepage#community);
 - Code Metrics; (análise de desenvolvimento do codigo)
 - Json data (para retornar os dados);
 - PostMan (testar a API criada);
