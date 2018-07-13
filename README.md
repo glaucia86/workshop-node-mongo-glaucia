@@ -6,9 +6,9 @@
 
 Repositório responsável pelo códigos desenvolvidos durante o workshop: **Criando uma App REST API com Node.js** realizado no dia 05/08/2018.
 
-**VAGAS LIMITADAS**:250
-**LINK INSCRIÇÃO WORKSHOP**: 
-**PREÇO**: R$ 25,00
+- **VAGAS LIMITADAS**:250
+- **LINK INSCRIÇÃO WORKSHOP**: 
+- **PREÇO**: R$ 25,00
 
 
 ## ⚡️Recursos Utilizados no Workshop:
