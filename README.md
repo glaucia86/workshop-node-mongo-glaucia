@@ -107,40 +107,5 @@ Caso o MongoDb esteja devidamente instalado em sua máquina, ele iniciará o ser
 Agora, abre a página da aplicação em `http://localhost:3000/api`. E pronto a aplicação será executada de maneira local na sua máquina.        
 --
 
-teste
 
 
-## 🔥 Pré-Requisistos para realização do Workshop: 
-
-* **Ter noções de JavaScript:**
-    - Desvendando a linguagem JavaScript (Rodrigo Branas): [AQUI](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
-
-## 🚀 Público Alvo: 
-
-O Workshop está destinado para o público iniciante e intermediário em Node.js. Por mais que você não possua conhecimento em Node.js, não tem problema. Estarei ensinando durante o evento
-
-## 📑 Conteúdo Pragmático:
-
-- Introdução e entendimento do cenário
-- Configuração e estruturação do projeto Node.js
-- Configuração do MongoDB com Node.js
-- Adicionando dados (requisições via POST - Node.js)
-- Recuperando Dados (requisições GET - Node.js)
-- Atualizando dados (requisições PUT - Node.js)
-- Excluindo Dados (requisições DELETE - Node.js)
-- Adicionando recursos à nossa API do Node e refatorando
-- Configuração do modelo Usuário para fins de Autenticação em Node.js
-- Autenticação de Middleware e Protegendo Recursos em Node.js
-
-
-## 🕕 Carga Horária: 
-
-3 horas de duração & com certificado de conclusão
-
-## ⚡️ Sobre a Instrutora: Glaucia Lemos
-
-Software Engineer & Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas. Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como Microsoft MVP em Developer Technologies. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é Community Leader & Tech Speaker do Meetup Coders in Rio, Techinical Author no Portal iMasters e Volunteer & Tech Speaker do WoMakersCode.
-
-p.s.: Após esse workshop, o aluno(a) estará apto para participar da 2ª do workshop sobre: Desenvolvendo Aplicações em MEAN (Angular 2+)
-
-Repositório: https://github.com/glaucia86/workshop-node-mongo-glaucia/blob/master/README.md
