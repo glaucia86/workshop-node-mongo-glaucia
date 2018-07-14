@@ -1,4 +1,4 @@
-# Repositório: Workshop - Criando uma App REST API com Node.js by Glaucia Lemos
+# Repositório: Workshop - Criando uma App REST API com Node.js & MongoDb by Glaucia Lemos
 
 <p align="center">
   <img src="https://i.imgsafe.org/8d/8dbb5a2b91.jpeg"/>  
