@@ -109,4 +109,62 @@ Agora, abre a página da aplicação em `http://localhost:3000/api`. E pronto a 
 
 
 
+Neste workshop você aprenderá de forma prática a criar uma API completa RESTFUL com Node.js & MongoDb. Através de aulas online e ao vivo, trabalharemos na configuração e principais processos de uma API, atendendo os critérios de um CRUD (CREATE, READ, UPDATE E DELETE), com endpoints de consistência de dados.
+
+VAGAS LIMITADAS: 250 alunos(as)
+PREÇO: R$ 25,00
+CERTIFICADO DE CONCLUSÃO
+ 
+⚡️Recursos Utilizados no Workshop:
+
+Visual Studio Code - DOWNLOAD AQUI
+Node.JS - DOWNLOAD AQUI
+Express.Js;
+MongoDb - DOWNLOAD AQUI;
+Code Metrics; (análise de desenvolvimento do codigo)
+Json data (para retornar os dados);
+PostMan (testar a API criada);
+ 
+🔥 Pré-Requisistos para realização do Workshop:
+Ter noções de JavaScript:
+Desvendando a linguagem JavaScript (Rodrigo Branas): AQUI
+
+🚀 Público Alvo 
+
+
+O Workshop está destinado para o público iniciante e intermediário em Node.js. Por mais que você não possua conhecimento em Node.js, não tem problema. Estarei ensinando durante o evento
+
+
+ 
+📑 Conteúdo Pragmático: 
++ Introdução e entendimento do cenário
++ Configuração e estruturação do projeto Node.js
++ Configuração do MongoDB com Node.js
++ Adicionando dados (requisições via POST - Node.js)
++ Recuperando Dados (requisições GET - Node.js)
++ Atualizando dados (requisições PUT - Node.js)
++ Excluindo Dados (requisições DELETE - Node.js)
++ Adicionando recursos à nossa API do Node e refatorando
++ Configuração do modelo Usuário para fins de Autenticação em Node.js
++ Autenticação de Middleware e Protegendo Recursos em Node.js
+ 
+ 
+
+ 🕕 Carga Horária: 
+3 horas de duração com certificado de conclusão
+
+
+⚡️ Sobre a Instrutora: Glaucia Lemos
+
+
+Software Engineer & Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas. Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como Microsoft MVP em Developer Technologies. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é Community Leader & Tech Speaker do Meetup Coders in Rio, Techinical Author no Portal iMasters e Volunteer & Tech Speaker do WoMakersCode.
+
+
+p.s.: Após esse workshop, o aluno(a) estará apto para participar da 2ª do workshop sobre: Desenvolvendo Aplicações em MEAN (Angular 2+)
+
+p.s.: O curso/workshop será feito de maneira online
+
+p.s.: daremos ao final do workshop uma certificação de conclusão do treinamento.
+
+Repositório: https://github.com/glaucia86/workshop-node-mongo-glaucia/blob/master/README.md
 
