@@ -18,11 +18,10 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 - Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
 - Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/) 
 - Express.Js;
-- MongoDb - [DOWNLOAD AQUI](https://www.mongodb.com/download-center?jmp=homepage#community)
-- Robomongo - [DOWNLOAD AQUI](https://robomongo.org/download)
+- MongoDb Compass Community - [DOWNLOAD AQUI](https://www.mongodb.com/download-center?jmp=homepage#community)
 - Code Metrics; (análise de desenvolvimento do codigo)
 - Json data (para retornar os dados)
-- PostMan (testar a API criada)
+- PostMan (testar a API criada) - [DOWNLOAD AQUI](https://www.getpostman.com/)
 
 ## :fire: Pré-Requisistos para realização do Workshop:
 
@@ -105,7 +104,7 @@ mongod
 Caso o MongoDb esteja devidamente instalado em sua máquina, ele iniciará o serviço mostrando que a port 27017 foi iniciada.
 
 
-Agora, abre a página da aplicação em `http://localhost:3000/api`. E pronto a aplicação será executada de maneira local na sua máquina.        
+Agora, abre a página da aplicação em `http://localhost:4000/v1`. E pronto a aplicação será executada de maneira local na sua máquina.        
 --
 
 
