@@ -23,7 +23,7 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 - Json data (para retornar os dados)
 - PostMan (testar a API criada) - [DOWNLOAD AQUI](https://www.getpostman.com/)
 
-## :fire: Pré-Requisistos para realização do Workshop:
+## :fire: Pré-Requisitos para realização do Workshop:
 
 * **Ter noções de JavaScript:**
     - Desvendando a linguagem JavaScript (Rodrigo Branas): [AQUI](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
