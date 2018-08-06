@@ -4,12 +4,13 @@
   <img src="https://i.imgsafe.org/8d/8dbb5a2b91.jpeg"/>  
 </p>
 
-Repositório responsável pelo códigos desenvolvidos durante o workshop: **Criando uma App REST API com Node.js** realizado no dia 05/08/2018.
+Repositório responsável pelo códigos desenvolvidos durante o workshop: **Criando uma App REST API com Node.js**
 O curso será feito de maneira online e as aulas serão gravadas e enviadas para os alunos(as).
 
 - **VAGAS LIMITADAS**: 250 alunos(as)
-- **LINK INSCRIÇÃO WORKSHOP**: [LINK](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154)
-- **PREÇO**: R$ 25,00
+- **LINK INSCRIÇÃO WORKSHOP**: [LINK](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs--mongodb__332860)
+- **PREÇO**: R$ 50,00
+- **APOSTILA**
 - **CERTIFICADO DE CONCLUSÃO**
 
 
@@ -18,9 +19,11 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 - Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
 - Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/) 
 - Express.Js;
-- MongoDb Compass Community - [DOWNLOAD AQUI](https://www.mongodb.com/download-center?jmp=homepage#community)
+- MongoDb Community - [DOWNLOAD AQUI](https://www.mongodb.com/download-center?jmp=homepage#community)
 - Code Metrics; (análise de desenvolvimento do codigo)
 - Json data (para retornar os dados)
+- ES2015
+- Babel
 - PostMan (testar a API criada) - [DOWNLOAD AQUI](https://www.getpostman.com/)
 
 ## :fire: Pré-Requisitos para realização do Workshop:
