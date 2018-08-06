@@ -11,6 +11,7 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 - **LINK INSCRIÇÃO WORKSHOP**: [LINK](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs--mongodb__332860)
 - **PREÇO**: R$ 50,00
 - **APOSTILA**
+- **AULAS GRAVADAS E ENVIADAS PARA OS PARTICIPANTES**
 - **CERTIFICADO DE CONCLUSÃO**
 
 
