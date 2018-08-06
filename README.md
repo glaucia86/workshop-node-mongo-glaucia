@@ -108,7 +108,6 @@ Caso o MongoDb esteja devidamente instalado em sua máquina, ele iniciará o ser
 
 
 Agora, abre a página da aplicação em `http://localhost:4000/v1`. E pronto a aplicação será executada de maneira local na sua máquina.        
---
 
 
 
