@@ -17,7 +17,7 @@ O curso será feito de maneira online e as aulas serão gravadas e enviadas para
 
 ## ⚡️Recursos Utilizados no Workshop:
 
-- Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
+- Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 - Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/) 
 - Express.Js;
 - MongoDb Community - [DOWNLOAD AQUI](https://www.mongodb.com/download-center?jmp=homepage#community)
